@@ -9,7 +9,7 @@ import numpy as np
 
 
 # page config
-st.set_page_config(page_title='Translater', page_icon='🤓', layout='wide')
+st.set_page_config(page_title='Translator', page_icon='🤓', layout='wide')
 
 # page setup
 
