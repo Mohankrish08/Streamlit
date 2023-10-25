@@ -5,6 +5,8 @@ streamlit-option-menu==0.3.2
 streamlit-on-Hover-tabs==1.0.1
 requests==2.28.2
 streamlit-analytics
+numpy
+opencv-python == 4.8.1
 streamlit-extras
 googletrans
 easyocr
